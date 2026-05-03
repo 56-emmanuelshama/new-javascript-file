@@ -1,10 +1,18 @@
+body{
+    
+      background: linear-gradient(to right, blue, lightblue );
+     
+     
+}
+
+
 #number{
     text-align: center;
     font-size: 5em;
 }
 .btn {
     text-align: center;
-    background-color: hsl(240, 38%, 55%);
+    background-color: hsl(210, 39%, 47%);
     cursor: pointer;
 }
 .btnbox {
@@ -12,7 +20,7 @@
 }
 .btn:hover{
 
-  background-color: hsl(240, 53%, 46%);
+  background-color: hsl(240, 65%, 56%);
   transition: 0.5s;
   color: hsl(180, 4%, 49%);
 }
